@@ -1,0 +1,26 @@
+.social-card {
+  margin: 2rem;
+  padding: 1.5rem;
+  border-bottom: 0.8px solid rgba(214, 214, 214, 0.705);
+}
+
+.card-heading {
+  margin-bottom: 2rem;
+}
+
+.card {
+  border-radius: 1.5%;
+}
+
+.post-img {
+  border-top-left-radius: 1.5%;
+  border-top-right-radius: 1.5%;
+}
+
+.body-profile-img {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
